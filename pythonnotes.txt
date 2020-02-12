@@ -1,0 +1,92 @@
+Python Class Week 3
+
+I join class 1/30
+
+Chapter 2 recap
+
+Math Module:
+import math, math functions
+math.pi
+
+Accumulator Pattern
+Adding from one number to the next number
+Need to intialize it first
+acc = 0
+
+Random Method:
+numbers between 0 - 1
+import random to execute.
+
+Turtle:
+Graphical Tool/output
+
+Logical Operators:
+x and y
+x or y
+not x
+leading into true or false
+
+Relational Operators:
+less than <
+greater than >
+greater than or equal too >=
+less than or equal too <=
+variable assignment =
+equal ==
+not equal !=
+
+Boolean Expressions
+True or False
+
+If else, elif
+Make sure you line up
+INDENTATION IS KEY
+Nesting
+
+Chapter 3
+String Data types
+Len bulit in functions
+Looking for input from the user
+Simple cryptographic algorithms
+
+String - a sequence of characters
+Quote delimited
+single '
+double "
+and triple "'
+
+Concatination + - take two strings and put them together
+Repetition * - repeats a string
+index [i] - returns a character at position i, indexes start at 0
+index[-1] - means you work backwards (negative indexes)
+Slice [i:j] returns the substring from i to j - 1
+
+String Methods:
+center:
+aString.center(w) 
+returns the string aString evenly surrounded by spaces
+count
+returns the number of occurances
+upper 
+returns string in all uppercase
+lower
+returns string in all lowercase
+find 
+returns the first occurance of something in a string
+rfind
+returns the last occurance of something in a string
+
+Character Functions
+Convert between characters and numbers
+ord gives you a unicode character in order to find its position
+chr gives you which letter is in position
+str changes numbers to strings
+
+Cyptography
+encoding and decoding messages
+ciphertext - encoded version
+plaintext - orginal version
+encryption - create ciphertext
+decryption - decoded message
+
+Subsitution Cipher

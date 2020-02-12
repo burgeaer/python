@@ -1,0 +1,79 @@
+Chapter 3 Review
+
+Cryptography
+-obscuring 
+plainText
+- your message
+cipherText
+- encryption/decryption
+Repitition
+- multiplies
+Slice Operator
+- sections out indexes 
+Concatination
+-combines strings
+index
+- pulling characters out in order to store them. Index starts at 0
+finding positions. negative indexs brings you to the end of the index and starts at -1
+input
+- "Please enter a number", Asking the user 
+length
+-returns the number of characters in the string
+string methods
+- center, rjustify, ljustify, upper, lower, index, rindex,rfind, find, replace
+immutable
+character functions
+- ord(unicode), chr(num), str(num)
+
+
+Chapter 4
+
+Lists
+- Used for organizing data
+-Heterogenous collection of python data
+ordered comma delimited inside square brackets[]
+
+MyList[3, 'cat', 6.5, 2]
+Lists are mutable meaning they can be changed
+
+List Methods
+
+list
+append
+insert
+pop
+sort
+reverse
+index
+count
+remove
+clear
+
+Simple Stats
+
+Stats Algorithums
+mean, median mode, std deviation, max, min, frequency
+mean == average
+median == middle
+mode == multiple numbers
+frequency == ???
+Three Built in functions
+min, max, and sum
+
+Dictionary
+Collection of associated key-values pairs
+Fast Lookup
+Comma Declined key:value pair in curly braces {}
+Use Index operators and key to look up values
+use dictionary to impleament counting
+Methods:
+keys
+values
+items
+reversed
+get 
+in 
+not in
+index
+del
+clear
